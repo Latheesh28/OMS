@@ -1,0 +1,60 @@
+		************Employees:*************
+ 	1) Ram R
+	R01
+	ram@gmail.com
+	9856412391	
+	Ram
+
+	2) Vignesh G
+	V02
+	vignesh@gmail.com
+	6253492158
+	Vignesh
+
+	3)Ramya s
+	R03
+	ramya@gmail.com
+	6292813420
+	Ramya
+
+	4) Jayanth K
+	J04
+	jayanth@gmail.com
+	7520534198
+	jayanth
+
+	5)Sheethal
+	S05
+	sheethal@gmail.com
+	9534854129
+	Sheethal
+
+		    *********Meetings**********
+1)Salary increment
+There will be increment in salary who was working from last 2 years.
+Bangalore
+03:30:PM
+04:02:2022
+	
+2)Covid rules Discussion
+There will be meeting based on work from home.
+Bangalore
+09:30:AM
+10:02:2022
+
+		*************Circulars**************
+
+1)Wellome New joiner:Sheethal
+
+2)Employee of week: Ram R
+
+3)26:01:2022 HOLIDAY
+
+
+		*************Complaints*************
+1)Salary increment
+Please increase our salary to 20000/Month.
+
+2)water problem
+We are not getting pure water for drinking.
+

@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-image:url(../office/images/a3.jpg);
+	background-repeat:repeat-y;
+}
+
+.heading
+{
+	font-family:"Segoe UI";
+	font-size:36px;
+	color:#FFF;
+	text-shadow:3px 3px 4px #333333;
+}
+.formTable
+{
+	border-radius:10px;
+	border:1px solid #0CF;
+	box-shadow:0px 0px 4px #000000;
+	padding:7px 7px;
+	background-color:#666;
+	opacity:0.9;
+}
+
+.formHead
+{
+	font-family:"Segoe UI";
+	color:rgba(255, 251, 4, 0.856);
+	text-shadow:3px 3px 2px #3333;
+	font-size:25px;
+}
+	
+.labels
+{
+	font-family:"Segoe UI";
+	color:rgb(252, 252, 252);
+	text-shadow:2px 2px 3px #333333;
+	font-size:15px;
+}
+
+.fields
+{
+	font-family:"Segoe UI";
+	border:1px solid #0CF;
+	font-size:13px;
+	background-color:transparent;
+	border-radius:4px;
+	padding:4px 4px;
+	color:#FFF;
+}
+.button
+{
+	background-color:transparent;
+	border-radius:4px;
+	border:1px solid #0CF;
+	font-family:"trebuchet MS";
+	font-size:14px;
+	color:#FFF;
+}
+a:link{font-family:"Segoe UI";color:#FFF;text-decoration:none;font-size:16px;text-shadow:2px 2px 3px #333333;}
+a:active{font-family:"Segoe UI";color:#FFF;text-decoration:none;font-size:16px;text-shadow:2px 2px 3px #333333;}
+a:visited{font-family:"Segoe UI";color:#FFF;text-decoration:none;font-size:16px;text-shadow:2px 2px 3px #333333;}
+a:hover{font-family:"Segoe UI";color:#3FF;text-decoration:none;font-size:16px;text-shadow:2px 2px 3px #333333;}
+
+.info
+{
+	font-family:"Segoe UI";
+	font-size:13px;
+	color:#FFF;
+	text-shadow:2px 2px 2px #CC0000;
+}
+
+#banner
+{
+    font-size:50px;
+    color:rgb(8, 8, 8);
+	background-color:rgb(65, 109, 255);
+	opacity:1.0;
+	width:100%;
+	padding:5px 5px;
+}
+
+#h1
+{
+	color:rgb(253, 237, 15);
+}
+
+td{vertical-align:top;}
+
